@@ -1,0 +1,11 @@
+# build output
+.build/
+.swiftpm/
+dist/
+*.dSYM/
+# editor and tool state
+.DS_Store
+.claude/
+# Blender autosave backups
+*.blend1
+__pycache__/

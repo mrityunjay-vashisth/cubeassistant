@@ -1,0 +1,15 @@
+{
+  "originHash" : "a11522f7750274a23e85cc3bcbd2542af9e42c96deda45ae46c356c95573e75c",
+  "pins" : [
+    {
+      "identity" : "gltfscenekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/magicien/GLTFSceneKit.git",
+      "state" : {
+        "revision" : "a9587ec5c6515ee7d036533fdd909815a9a718ef",
+        "version" : "0.4.1"
+      }
+    }
+  ],
+  "version" : 3
+}
