@@ -1,5 +1,9 @@
 # CubeAssistant
 
+[![CubeAssistant demo](docs/demo.gif)](docs/demo.mp4)
+
+*The full 30 second demo with sound: [docs/demo.mp4](docs/demo.mp4)*
+
 A little planet that floats on your Mac desktop. Drag Earth around, switch to the Sun or other worlds, and now and then a rocket launches from it and flies a lap around your screen.
 
 - SwiftUI + SceneKit, 3D models loaded with GLTFSceneKit
